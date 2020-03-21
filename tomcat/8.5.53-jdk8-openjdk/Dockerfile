@@ -1,0 +1,1 @@
+FROM tomcat:8.5.53-jdk8-openjdk
